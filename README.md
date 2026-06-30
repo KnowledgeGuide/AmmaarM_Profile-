@@ -1,8 +1,8 @@
 # 💫 About Me  
 
-Data-driven professional with **5+ years of experience** in business analytics, data visualization, and strategic insights. Proven track record in **research analytics, market intelligence, and stakeholder engagement** to drive decision-making.  
+Data-driven Computer Science graduate with hands-on experience in business analytics, data science, and strategic problem-solving. Proven track record in predictive modeling, data visualization, and analytical reporting to drive actionable decision-making.
 
-Skilled in **SQL, Python, PostgreSQL, AWS, Linux, Tableau, Power BI, Google Looker Studio and Excel**, with expertise in managing large datasets and developing actionable insights for business growth. Previously worked as a **Senior Analyst at Dell Technologies**, leveraging data to improve customer experience and streamline operations.  
+Skilled in Python, MySQL, PostgreSQL, Pandas, Matplotlib, TensorFlow, and Excel, with expertise in managing datasets, training machine learning models, and developing insights for business growth. Previously worked as a Business Analyst at The Alpin Company and completed a Data Science internship at Slash Mark IT Solutions, leveraging data to build solutions ranging from customer churn prediction to computer vision models. Currently expanding expertise in Generative AI to deliver forward-thinking technical solutions.
 
 ---
 # 📚 SQL Mentor (Side Project)  
@@ -10,7 +10,7 @@ Built **SQL Mentor**, a Discord bot with Python, Postgres, Docker, RailWay Cloud
 
 With features such as daily SQL challenges, a leaderboard for competitive learning, and real-time SQL battles, SQL Mentor creates a fun and engaging environment for both beginners and experienced developers to improve their database querying abilities. The bot also includes a user-specific progress tracking system, achievement rewards, and a community-driven question reporting feature to enhance the learning experience.
 
-Check out the project [here](https://github.com/najirh/sql-mentor-bot).
+Check out the project [here](Coming Soon).
 
 
 
